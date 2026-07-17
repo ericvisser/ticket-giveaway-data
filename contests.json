@@ -1,0 +1,31 @@
+{
+  "version": "2026-07-16",
+  "updatedAt": "2026-07-16",
+  "note": "Verified live radio ticket giveaways. status: confirmed = entry window read from official rules; listed = currently listed on the station promo page but deadline is inside an iHeart widget; check = open per rules but the direct link needs the contests index.",
+  "contests": [
+    { "id": "stapleton-mix1041", "artist": "Chris Stapleton", "station": "Mix 104.1", "market": "Boston", "venue": "Fenway Park", "showDate": "2026-08-14", "closes": "2026-08-10", "status": "confirmed", "url": "https://www.audacy.com/mix1041/contests/chris-stapleton-all-american-road-show-ticket-sweepstakes-fenway" },
+    { "id": "stapleton-magic1067", "artist": "Chris Stapleton", "station": "Magic 106.7", "market": "Boston", "venue": "Fenway Park", "showDate": "2026-08-14", "closes": "2026-08-10", "status": "confirmed", "url": "https://www.audacy.com/magic1067/contests/chris-stapleton-all-american-road-show-ticket-sweepstakes" },
+    { "id": "stapleton-weei", "artist": "Chris Stapleton", "station": "WEEI 93.7", "market": "Boston", "venue": "Fenway Park", "showDate": "2026-08-14", "closes": "2026-08-10", "status": "confirmed", "url": "https://www.audacy.com/weei/contests/chris-stapleton-all-american-road-show-ticket-sweepstakes" },
+    { "id": "stapleton-wmas", "artist": "Chris Stapleton", "station": "94.7 WMAS", "market": "Springfield", "venue": "Fenway Park", "showDate": "2026-08-14", "closes": "2026-08-10", "status": "confirmed", "url": "https://www.audacy.com/947wmas/contests/chris-stapleton-all-american-road-show-ticket-sweepstakes" },
+    { "id": "stapleton-wheb", "artist": "Chris Stapleton", "station": "100.3 WHEB", "market": "New Hampshire", "venue": "Fenway Park", "showDate": "2026-08-14", "closes": "2026-08-10", "status": "confirmed", "url": "https://wheb.iheart.com/promotions/chris-stapleton-at-fenway-park-1853082/" },
+
+    { "id": "doja-mix1041", "artist": "Doja Cat", "station": "Mix 104.1", "market": "Boston", "venue": "TD Garden", "showDate": "2026-11-23", "closes": "2026-11-09", "status": "confirmed", "url": "https://www.audacy.com/mix1041/contests/doja-cat-ticket-sweepstakes" },
+    { "id": "doja-kiss108", "artist": "Doja Cat", "station": "Kiss 108", "market": "Boston", "venue": "TD Garden", "showDate": "2026-11-23", "closes": null, "status": "listed", "url": "https://kiss108.iheart.com/promotions/doja-cat-at-td-garden-1818019/" },
+
+    { "id": "gorillaz-weei", "artist": "Gorillaz", "station": "WEEI 93.7", "market": "Boston", "venue": "TD Garden", "showDate": "2026-10-01", "closes": "2026-09-21", "status": "confirmed", "url": "https://www.audacy.com/weei/contests/gorillaz-ticket-sweepstakes" },
+
+    { "id": "hayley-mix1041", "artist": "Hayley Williams", "station": "Mix 104.1", "market": "Boston", "venue": "Xfinity Center, Mansfield", "showDate": "2026-09-11", "closes": "2026-08-31", "status": "confirmed", "url": "https://www.audacy.com/mix1041/contests/hayley-williams-ticket-sweepstakes" },
+    { "id": "hayley-kiss108", "artist": "Hayley Williams", "station": "Kiss 108", "market": "Boston", "venue": "Xfinity Center, Mansfield", "showDate": "2026-09-11", "closes": null, "status": "listed", "url": "https://kiss108.iheart.com/promotions/the-haley-williams-show-at-xfinity-1883001/" },
+
+    { "id": "olivia-mix1041", "artist": "Olivia Rodrigo", "station": "Mix 104.1", "market": "Boston", "venue": "TD Garden", "showDate": "2026-10-15", "closes": "2026-10-05", "status": "confirmed", "url": "https://www.audacy.com/mix1041/contests/olivia-rodrigo-ticket-sweepstakes-2676895310" },
+    { "id": "olivia-kiss108", "artist": "Olivia Rodrigo", "station": "Kiss 108", "market": "Boston", "venue": "TD Garden", "showDate": "2026-10-15", "closes": null, "status": "listed", "url": "https://kiss108.iheart.com/promotions/olivia-rodrigo-at-td-garden-1880685/" },
+    { "id": "olivia-now933", "artist": "Olivia Rodrigo", "station": "Now 93.3", "market": "Providence", "venue": "TD Garden", "showDate": "2026-10-15", "closes": null, "status": "listed", "url": "https://now933fm.iheart.com/promotions/olivia-rodrigo-the-unraveled-tour-at-td-garden-1881428/" },
+
+    { "id": "weezer-big103", "artist": "Weezer", "station": "BIG 103", "market": "Boston", "venue": "TD Garden", "showDate": "2026-09-27", "closes": "2026-09-14", "status": "confirmed", "url": "https://www.audacy.com/big103boston/contests/weezer-ticket-sweepstakes-2676711640" },
+    { "id": "weezer-mix1041", "artist": "Weezer", "station": "Mix 104.1", "market": "Boston", "venue": "TD Garden", "showDate": "2026-09-27", "closes": "2026-09-14", "status": "confirmed", "url": "https://www.audacy.com/mix1041/contests/weezer-ticket-sweepstakes-2676711533" },
+    { "id": "weezer-weei", "artist": "Weezer", "station": "WEEI 93.7", "market": "Boston", "venue": "TD Garden", "showDate": "2026-09-27", "closes": "2026-09-14", "status": "confirmed", "url": "https://www.audacy.com/weei/contests/weezer-ticket-sweepstakes" },
+    { "id": "weezer-wheb", "artist": "Weezer", "station": "100.3 WHEB", "market": "New Hampshire", "venue": "TD Garden", "showDate": "2026-09-27", "closes": "2026-09-14", "status": "confirmed", "url": "https://wheb.iheart.com/promotions/weezer-at-td-garden-1869994/" },
+
+    { "id": "zach-mix1041", "artist": "Zach Bryan", "station": "Mix 104.1", "market": "Boston", "venue": "Gillette Stadium, Foxborough", "showDate": "2026-10-03", "closes": "2026-09-14", "status": "check", "note": "Direct contest page 404s; the link opens Mix 104.1's contests index — look for \"Zach Bryan Ticket Giveaway\".", "url": "https://www.audacy.com/mix1041/contests" }
+  ]
+}
