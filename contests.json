@@ -1,7 +1,7 @@
 {
-  "version": "2026-07-19",
-  "updatedAt": "2026-07-19",
-  "note": "Comprehensive live online ticket sweepstakes across Boston, Worcester, Springfield, Providence, and New Hampshire radio stations. status: confirmed = Audacy, entry window read from official rules; listed = iHeart, currently on the station promotions page (deadline shown on the page); check = open per rules but the link opens a contests index.",
+  "version": "2026-08-12",
+  "updatedAt": "2026-08-12",
+  "note": "Live online radio ticket sweepstakes across New England. status: confirmed = Audacy, exact close date; listed = iHeart, deadline on the page; check = open per rules but the link is a contests index.",
   "contests": [
     {
       "id": "ih-uicideboy-at-xfinity-center-1871264",
@@ -24,28 +24,6 @@
       "closes": "2026-11-30",
       "status": "confirmed",
       "url": "https://www.audacy.com/magic1067/contests/andrea-bocelli-ticket-sweepstakes-2676694033"
-    },
-    {
-      "id": "ih-ariana-grande-at-td-garden-1810685",
-      "artist": "Ariana Grande",
-      "station": "Kiss 108",
-      "market": "Boston",
-      "venue": "TD Garden",
-      "showDate": "2026-07-23",
-      "closes": null,
-      "status": "listed",
-      "url": "https://kiss108.iheart.com/promotions/ariana-grande-at-td-garden-1810685/"
-    },
-    {
-      "id": "aud-avenged-sevenfold-and-good-charlotte-ticket-sweepstakes",
-      "artist": "Avenged Sevenfold & Good Charlotte",
-      "station": "WEEI 93.7",
-      "market": "Boston",
-      "venue": "Xfinity Center",
-      "showDate": "2026-08-12",
-      "closes": "2026-08-03",
-      "status": "confirmed",
-      "url": "https://www.audacy.com/weei/contests/avenged-sevenfold-and-good-charlotte-ticket-sweepstakes"
     },
     {
       "id": "ih-babymetal-at-xfinity-center-1871605",
@@ -79,6 +57,17 @@
       "closes": null,
       "status": "listed",
       "url": "https://94hjy.iheart.com/promotions/beartooth-pure-ecstasy-tour-at-mgm-1885816/"
+    },
+    {
+      "id": "ih-beat-belewvailevinbozzio-performing-the-music-of-1910121",
+      "artist": "BEAT (Belew/Vai/Levin/Bozzio)",
+      "station": "94 HJY",
+      "market": "Providence",
+      "venue": "Mohegan Sun Arena",
+      "showDate": "2026-11-05",
+      "closes": null,
+      "status": "listed",
+      "url": "https://94hjy.iheart.com/promotions/beat-belewvailevinbozzio-performing-the-music-of-1910121/"
     },
     {
       "id": "aud-beck-ticket-sweepstakes",
@@ -136,37 +125,38 @@
       "url": "https://kiss108.iheart.com/promotions/boys-like-girls-at-leader-bank-1888178/"
     },
     {
-      "id": "aud-brad-paisley-ticket-sweepstakes",
-      "artist": "Brad Paisley",
-      "station": "WEEI 93.7",
+      "id": "aud-boys-like-girls-ticket-sweepstakes-2676986153",
+      "artist": "Boys Like Girls",
+      "station": "Mix 104.1",
       "market": "Boston",
-      "venue": "MGM Music Hall at Fenway",
-      "showDate": "2026-08-28",
-      "closes": "2026-08-10",
+      "venue": "Leader Bank Pavilion",
+      "showDate": "2026-08-29",
+      "closes": "2026-08-17",
       "status": "confirmed",
-      "url": "https://www.audacy.com/weei/contests/brad-paisley-ticket-sweepstakes"
+      "url": "https://www.audacy.com/mix1041/contests/boys-like-girls-ticket-sweepstakes-2676986153"
+    },
+    {
+      "id": "aud-bruno-mars-the-romantic-tour-ticket-sweepstakes-2",
+      "artist": "Bruno Mars",
+      "station": "96.5 TIC",
+      "market": "Hartford",
+      "venue": "Gillette Stadium, Foxborough, MA",
+      "showDate": "2026-09-05",
+      "closes": "2026-08-31",
+      "status": "confirmed",
+      "url": "https://www.audacy.com/965tic/contests/bruno-mars-the-romantic-tour-ticket-sweepstakes",
+      "referralUrl": "https://ul.ink/B36NX-T22J38"
     },
     {
       "id": "aud-bruno-mars-the-romantic-tour-ticket-sweepstakes",
       "artist": "Bruno Mars",
       "station": "94.7 WMAS",
       "market": "Springfield",
-      "venue": "Gillette Stadium",
+      "venue": "Gillette Stadium, Foxborough, MA",
       "showDate": "2026-09-05",
       "closes": "2026-08-31",
       "status": "confirmed",
       "url": "https://www.audacy.com/947wmas/contests/bruno-mars-the-romantic-tour-ticket-sweepstakes"
-    },
-    {
-      "id": "ih-bts-at-gillette-stadium-1847142",
-      "artist": "BTS",
-      "station": "Kiss 108",
-      "market": "Boston",
-      "venue": "Gillette Stadium",
-      "showDate": "2026-08-05",
-      "closes": null,
-      "status": "listed",
-      "url": "https://kiss108.iheart.com/promotions/bts-at-gillette-stadium-1847142/"
     },
     {
       "id": "ih-chance-the-rapper-at-mgm-music-1885897",
@@ -178,17 +168,6 @@
       "closes": null,
       "status": "listed",
       "url": "https://jamn945.iheart.com/promotions/chance-the-rapper-at-mgm-music-1885897/"
-    },
-    {
-      "id": "aud-chance-the-rapper-ticket-sweepstakes",
-      "artist": "Chance the Rapper",
-      "station": "WEEI 93.7",
-      "market": "Boston",
-      "venue": "MGM Music Hall at Fenway",
-      "showDate": "2026-08-20",
-      "closes": "2026-08-10",
-      "status": "confirmed",
-      "url": "https://www.audacy.com/weei/contests/chance-the-rapper-ticket-sweepstakes"
     },
     {
       "id": "ih-charli-xcx-at-td-garden-1894991",
@@ -213,50 +192,6 @@
       "url": "https://jamn945.iheart.com/promotions/chief-keef-at-mgm-music-hall-1901736/"
     },
     {
-      "id": "aud-chris-brown-usher-ticket-sweepstakes",
-      "artist": "Chris Brown & Usher",
-      "station": "Mix 104.1",
-      "market": "Boston",
-      "venue": "Gillette Stadium",
-      "showDate": "2026-08-17",
-      "closes": "2026-08-03",
-      "status": "confirmed",
-      "url": "https://www.audacy.com/mix1041/contests/chris-brown-usher-ticket-sweepstakes"
-    },
-    {
-      "id": "aud-chris-stapleton-all-american-road-show-ticket-sweepstakes",
-      "artist": "Chris Stapleton",
-      "station": "Magic 106.7",
-      "market": "Boston",
-      "venue": "Fenway Park",
-      "showDate": "2026-08-14",
-      "closes": "2026-08-10",
-      "status": "confirmed",
-      "url": "https://www.audacy.com/magic1067/contests/chris-stapleton-all-american-road-show-ticket-sweepstakes"
-    },
-    {
-      "id": "aud-chris-stapleton-all-american-road-show-ticket-sweepstakes-fenway",
-      "artist": "Chris Stapleton",
-      "station": "Mix 104.1",
-      "market": "Boston",
-      "venue": "Fenway Park",
-      "showDate": "2026-08-14",
-      "closes": "2026-08-10",
-      "status": "confirmed",
-      "url": "https://www.audacy.com/mix1041/contests/chris-stapleton-all-american-road-show-ticket-sweepstakes-fenway"
-    },
-    {
-      "id": "aud-chris-stapleton-all-american-road-show-ticket-sweepstakes-2",
-      "artist": "Chris Stapleton",
-      "station": "WEEI 93.7",
-      "market": "Boston",
-      "venue": "Fenway Park",
-      "showDate": "2026-08-14",
-      "closes": "2026-08-10",
-      "status": "confirmed",
-      "url": "https://www.audacy.com/weei/contests/chris-stapleton-all-american-road-show-ticket-sweepstakes"
-    },
-    {
       "id": "ih-chris-stapleton-at-fenway-park-1853082",
       "artist": "Chris Stapleton",
       "station": "100.3 WHEB",
@@ -266,17 +201,6 @@
       "closes": null,
       "status": "listed",
       "url": "https://wheb.iheart.com/promotions/chris-stapleton-at-fenway-park-1853082/"
-    },
-    {
-      "id": "aud-chris-stapleton-all-american-road-show-ticket-sweepstakes-3",
-      "artist": "Chris Stapleton",
-      "station": "94.7 WMAS",
-      "market": "Springfield",
-      "venue": "Fenway Park",
-      "showDate": "2026-08-14",
-      "closes": "2026-08-10",
-      "status": "confirmed",
-      "url": "https://www.audacy.com/947wmas/contests/chris-stapleton-all-american-road-show-ticket-sweepstakes"
     },
     {
       "id": "ih-clutch-at-hampton-beach-casino-ballroom-1882487",
@@ -290,29 +214,7 @@
       "url": "https://wheb.iheart.com/promotions/clutch-at-hampton-beach-casino-ballroom-1882487/"
     },
     {
-      "id": "aud-jimmy-buffet-s-coral-reefer-band-ticket-sweepstakes",
-      "artist": "Coral Reefer Band",
-      "station": "BIG 103",
-      "market": "Boston",
-      "venue": "Leader Bank Pavilion",
-      "showDate": "2026-08-08",
-      "closes": "2026-07-27",
-      "status": "confirmed",
-      "url": "https://www.audacy.com/big103boston/contests/jimmy-buffet-s-coral-reefer-band-ticket-sweepstakes"
-    },
-    {
-      "id": "ih-coral-reefer-band-at-banknh-pavilion-1865973",
-      "artist": "Coral Reefer Band",
-      "station": "100.3 WHEB",
-      "market": "New Hampshire",
-      "venue": "BankNH Pavilion, Gilford NH",
-      "showDate": "2026-08-07",
-      "closes": null,
-      "status": "listed",
-      "url": "https://wheb.iheart.com/promotions/coral-reefer-band-at-banknh-pavilion-1865973/"
-    },
-    {
-      "id": "aud-dan-shay-ticket-sweepstakes",
+      "id": "aud-dan-shay-ticket-sweepstakes-2",
       "artist": "Dan + Shay",
       "station": "Magic 106.7",
       "market": "Boston",
@@ -334,7 +236,7 @@
       "url": "https://www.audacy.com/mix1041/contests/dan-shay-ticket-sweepstakes-2677222930"
     },
     {
-      "id": "aud-dan-shay-ticket-sweepstakes-2",
+      "id": "aud-dan-shay-ticket-sweepstakes",
       "artist": "Dan + Shay",
       "station": "WEEI 93.7",
       "market": "Boston",
@@ -343,28 +245,6 @@
       "closes": "2026-09-07",
       "status": "confirmed",
       "url": "https://www.audacy.com/weei/contests/dan-shay-ticket-sweepstakes"
-    },
-    {
-      "id": "ih-daniel-caesar-at-td-garden-1871312",
-      "artist": "Daniel Caesar",
-      "station": "JAM'N 94.5",
-      "market": "Boston",
-      "venue": "TD Garden",
-      "showDate": "2026-07-31",
-      "closes": null,
-      "status": "listed",
-      "url": "https://jamn945.iheart.com/promotions/daniel-caesar-at-td-garden-1871312/"
-    },
-    {
-      "id": "aud-daniel-caesar-ticket-sweepstakes",
-      "artist": "Daniel Caesar",
-      "station": "WEEI 93.7",
-      "market": "Boston",
-      "venue": "TD Garden",
-      "showDate": "2026-07-31",
-      "closes": "2026-07-20",
-      "status": "confirmed",
-      "url": "https://www.audacy.com/weei/contests/daniel-caesar-ticket-sweepstakes"
     },
     {
       "id": "ih-danny-elfman-at-mgm-music-hall-1902025",
@@ -376,28 +256,6 @@
       "closes": null,
       "status": "listed",
       "url": "https://wheb.iheart.com/promotions/danny-elfman-at-mgm-music-hall-1902025/"
-    },
-    {
-      "id": "aud-deep-purple-ticket-sweepstakes",
-      "artist": "Deep Purple",
-      "station": "BIG 103",
-      "market": "Boston",
-      "venue": "Xfinity Center",
-      "showDate": "2026-08-13",
-      "closes": "2026-08-03",
-      "status": "confirmed",
-      "url": "https://www.audacy.com/big103boston/contests/deep-purple-ticket-sweepstakes"
-    },
-    {
-      "id": "aud-deep-purple-ticket-sweepstakes-2",
-      "artist": "Deep Purple",
-      "station": "WEEI 93.7",
-      "market": "Boston",
-      "venue": "Xfinity Center",
-      "showDate": "2026-08-13",
-      "closes": "2026-08-03",
-      "status": "confirmed",
-      "url": "https://www.audacy.com/weei/contests/deep-purple-ticket-sweepstakes"
     },
     {
       "id": "ih-deep-purple-at-xfinity-center-1869964",
@@ -488,7 +346,7 @@
       "url": "https://kiss108.iheart.com/promotions/ed-sheeran-at-gillette-stadium-1815238/"
     },
     {
-      "id": "aud-ed-sheerans-loop-tour-ticket-sweepstakes",
+      "id": "aud-ed-sheerans-loop-tour-ticket-sweepstakes-3",
       "artist": "Ed Sheeran",
       "station": "Mix 104.1",
       "market": "Boston",
@@ -497,6 +355,17 @@
       "closes": "2026-09-21",
       "status": "confirmed",
       "url": "https://www.audacy.com/mix1041/contests/ed-sheerans-loop-tour-ticket-sweepstakes"
+    },
+    {
+      "id": "aud-ed-sheerans-loop-tour-ticket-sweepstakes",
+      "artist": "Ed Sheeran",
+      "station": "WEEI 93.7",
+      "market": "Boston",
+      "venue": "Gillette Stadium",
+      "showDate": "2026-09-25",
+      "closes": "2026-09-21",
+      "status": "confirmed",
+      "url": "https://www.audacy.com/weei/contests/ed-sheerans-loop-tour-ticket-sweepstakes"
     },
     {
       "id": "ih-ed-sheeran-at-gillette-stadium-1818315",
@@ -514,11 +383,22 @@
       "artist": "Ed Sheeran",
       "station": "94.7 WMAS",
       "market": "Springfield",
-      "venue": "Gillette Stadium",
+      "venue": "Gillette Stadium, Foxborough, MA",
       "showDate": "2026-09-25",
       "closes": "2026-09-21",
       "status": "confirmed",
       "url": "https://www.audacy.com/947wmas/contests/ed-sheerans-loop-tour-ticket-sweepstakes"
+    },
+    {
+      "id": "ih-ella-mai-at-mgm-music-hall-1865963",
+      "artist": "Ella Mai",
+      "station": "JAM'N 94.5",
+      "market": "Boston",
+      "venue": "MGM Music Hall at Fenway",
+      "showDate": "2026-08-27",
+      "closes": null,
+      "status": "listed",
+      "url": "https://jamn945.iheart.com/promotions/ella-mai-at-mgm-music-hall-1865963/"
     },
     {
       "id": "aud-ella-mai-ticket-sweepstakes",
@@ -532,50 +412,6 @@
       "url": "https://www.audacy.com/weei/contests/ella-mai-ticket-sweepstakes"
     },
     {
-      "id": "ih-elmiene-at-big-night-live-1872827",
-      "artist": "Elmiene",
-      "station": "JAM'N 94.5",
-      "market": "Boston",
-      "venue": "Big Night Live",
-      "showDate": "2026-07-29",
-      "closes": null,
-      "status": "listed",
-      "url": "https://jamn945.iheart.com/promotions/elmiene-at-big-night-live-1872827/"
-    },
-    {
-      "id": "ih-fetty-wap-at-mgm-music-hall-1884858",
-      "artist": "Fetty Wap",
-      "station": "JAM'N 94.5",
-      "market": "Boston",
-      "venue": "MGM Music Hall at Fenway",
-      "showDate": "2026-08-01",
-      "closes": null,
-      "status": "listed",
-      "url": "https://jamn945.iheart.com/promotions/fetty-wap-at-mgm-music-hall-1884858/"
-    },
-    {
-      "id": "ih-five-finger-death-punch-at-banknh-1849377",
-      "artist": "Five Finger Death Punch",
-      "station": "100.3 WHEB",
-      "market": "New Hampshire",
-      "venue": "BankNH Pavilion, Gilford NH",
-      "showDate": "2026-07-28",
-      "closes": null,
-      "status": "listed",
-      "url": "https://wheb.iheart.com/promotions/five-finger-death-punch-at-banknh-1849377/"
-    },
-    {
-      "id": "ih-win-tickets-to-five-finger-death-1847228",
-      "artist": "Five Finger Death Punch",
-      "station": "94 HJY",
-      "market": "Providence",
-      "venue": "Xfinity Center",
-      "showDate": "2026-07-30",
-      "closes": null,
-      "status": "listed",
-      "url": "https://94hjy.iheart.com/promotions/win-tickets-to-five-finger-death-1847228/"
-    },
-    {
       "id": "ih-foster-the-people-good-mourning-sunshine-1881421",
       "artist": "Foster the People",
       "station": "Now 93.3",
@@ -587,6 +423,17 @@
       "url": "https://now933fm.iheart.com/promotions/foster-the-people-good-mourning-sunshine-1881421/"
     },
     {
+      "id": "ih-godsmack-the-rise-of-rock-world-1907223",
+      "artist": "Godsmack",
+      "station": "94 HJY",
+      "market": "Providence",
+      "venue": "Mohegan Sun Arena",
+      "showDate": "2026-10-24",
+      "closes": null,
+      "status": "listed",
+      "url": "https://94hjy.iheart.com/promotions/godsmack-the-rise-of-rock-world-1907223/"
+    },
+    {
       "id": "aud-gorillaz-ticket-sweepstakes",
       "artist": "Gorillaz",
       "station": "WEEI 93.7",
@@ -596,6 +443,39 @@
       "closes": "2026-09-21",
       "status": "confirmed",
       "url": "https://www.audacy.com/weei/contests/gorillaz-ticket-sweepstakes"
+    },
+    {
+      "id": "ih-govt-mule-at-mgm-music-hall-1910531",
+      "artist": "Gov't Mule",
+      "station": "WZLX 100.7",
+      "market": "Boston",
+      "venue": "MGM Music Hall at Fenway",
+      "showDate": "2026-12-31",
+      "closes": null,
+      "status": "listed",
+      "url": "https://wzlx.iheart.com/promotions/govt-mule-at-mgm-music-hall-1910531/"
+    },
+    {
+      "id": "ih-govt-mule-friends-mule-years-eve-1911178",
+      "artist": "Gov't Mule & Friends",
+      "station": "94 HJY",
+      "market": "Providence",
+      "venue": "MGM Music Hall at Fenway",
+      "showDate": "2026-12-31",
+      "closes": null,
+      "status": "listed",
+      "url": "https://94hjy.iheart.com/promotions/govt-mule-friends-mule-years-eve-1911178/"
+    },
+    {
+      "id": "aud-gracie-abrams-ticket-sweepstakes-2677666698",
+      "artist": "Gracie Abrams",
+      "station": "Mix 104.1",
+      "market": "Boston",
+      "venue": "TD Garden",
+      "showDate": "2027-03-01",
+      "closes": "2027-02-15",
+      "status": "confirmed",
+      "url": "https://www.audacy.com/mix1041/contests/gracie-abrams-ticket-sweepstakes-2677666698"
     },
     {
       "id": "aud-harry-styles-together-together-tour-ticket-sweepstakes",
@@ -624,44 +504,22 @@
       "artist": "Hayley Williams",
       "station": "Mix 104.1",
       "market": "Boston",
-      "venue": "Xfinity Center, Mansfield",
+      "venue": "Xfinity Center",
       "showDate": "2026-09-11",
       "closes": "2026-08-31",
       "status": "confirmed",
       "url": "https://www.audacy.com/mix1041/contests/hayley-williams-ticket-sweepstakes"
     },
     {
-      "id": "ih-hillary-duff-at-xfinity-center-1856466",
-      "artist": "Hilary Duff",
-      "station": "Kiss 108",
+      "id": "aud-iron-maiden-ticket-sweepstakes",
+      "artist": "Iron Maiden",
+      "station": "WEEI 93.7",
       "market": "Boston",
       "venue": "Xfinity Center",
-      "showDate": "2026-08-08",
-      "closes": null,
-      "status": "listed",
-      "url": "https://kiss108.iheart.com/promotions/hillary-duff-at-xfinity-center-1856466/"
-    },
-    {
-      "id": "ih-hillary-duff-with-la-roux-jade-1857034",
-      "artist": "Hilary Duff",
-      "station": "Now 93.3",
-      "market": "Providence",
-      "venue": "Xfinity Center",
-      "showDate": "2026-08-08",
-      "closes": null,
-      "status": "listed",
-      "url": "https://now933fm.iheart.com/promotions/hillary-duff-with-la-roux-jade-1857034/"
-    },
-    {
-      "id": "aud-howard-jones-ticket-sweepstakes",
-      "artist": "Howard Jones",
-      "station": "Magic 106.7",
-      "market": "Boston",
-      "venue": "Citizens House of Blues",
-      "showDate": "2026-08-19",
-      "closes": "2026-08-10",
+      "showDate": "2026-09-09",
+      "closes": "2026-08-31",
       "status": "confirmed",
-      "url": "https://www.audacy.com/magic1067/contests/howard-jones-ticket-sweepstakes"
+      "url": "https://www.audacy.com/weei/contests/iron-maiden-ticket-sweepstakes"
     },
     {
       "id": "ih-iron-maiden-at-td-garden-1827092",
@@ -717,6 +575,28 @@
       "closes": null,
       "status": "listed",
       "url": "https://kiss108.iheart.com/promotions/jack-harlow-at-mgm-music-hall-1870202/"
+    },
+    {
+      "id": "aud-james-taylor-ticket-sweepstakes3",
+      "artist": "James Taylor",
+      "station": "BIG 103",
+      "market": "Boston",
+      "venue": "MGM Music Hall at Fenway",
+      "showDate": "2026-09-06",
+      "closes": "2026-08-24",
+      "status": "confirmed",
+      "url": "https://www.audacy.com/big103boston/contests/james-taylor-ticket-sweepstakes3"
+    },
+    {
+      "id": "aud-james-taylor-ticket-sweepstakes3-2",
+      "artist": "James Taylor",
+      "station": "WEEI 93.7",
+      "market": "Boston",
+      "venue": "MGM Music Hall at Fenway",
+      "showDate": "2026-09-06",
+      "closes": "2026-08-24",
+      "status": "confirmed",
+      "url": "https://www.audacy.com/weei/contests/james-taylor-ticket-sweepstakes3"
     },
     {
       "id": "ih-james-taylor-at-mgm-music-hall-1849269",
@@ -818,6 +698,17 @@
       "url": "https://wzlx.iheart.com/promotions/journey-at-td-garden-1884452/"
     },
     {
+      "id": "ih-journey-final-frontier-tour-at-the-1885810",
+      "artist": "Journey",
+      "station": "94 HJY",
+      "market": "Providence",
+      "venue": "Amica Mutual Pavilion",
+      "showDate": "2026-10-29",
+      "closes": null,
+      "status": "listed",
+      "url": "https://94hjy.iheart.com/promotions/journey-final-frontier-tour-at-the-1885810/"
+    },
+    {
       "id": "ih-katseye-at-td-garden-1884846",
       "artist": "KATSEYE",
       "station": "Kiss 108",
@@ -882,17 +773,6 @@
       "closes": null,
       "status": "listed",
       "url": "https://kiss108.iheart.com/promotions/kesha-at-xfinity-center-1867658/"
-    },
-    {
-      "id": "aud-kesha-ticket-sweepstakes",
-      "artist": "Kesha",
-      "station": "Magic 106.7",
-      "market": "Boston",
-      "venue": "Xfinity Center",
-      "showDate": "2026-08-21",
-      "closes": "2026-08-10",
-      "status": "confirmed",
-      "url": "https://www.audacy.com/magic1067/contests/kesha-ticket-sweepstakes"
     },
     {
       "id": "ih-kesha-with-chromeo-erika-jayne-at-1870584",
@@ -992,17 +872,6 @@
       "closes": null,
       "status": "listed",
       "url": "https://jamn945.iheart.com/promotions/lucki-at-roadrunner-1886225/"
-    },
-    {
-      "id": "aud-lynyrd-skynyrd-and-foreigner-ticket-sweepstakes",
-      "artist": "Lynyrd Skynyrd & Foreigner",
-      "station": "BIG 103",
-      "market": "Boston",
-      "venue": "Xfinity Center",
-      "showDate": "2026-08-22",
-      "closes": "2026-08-10",
-      "status": "confirmed",
-      "url": "https://www.audacy.com/big103boston/contests/lynyrd-skynyrd-and-foreigner-ticket-sweepstakes"
     },
     {
       "id": "ih-lynyrd-skynyrd-foreigner-at-xfinity-center-1833549",
@@ -1115,39 +984,6 @@
       "url": "https://kiss108.iheart.com/promotions/myles-smith-at-leader-bank-pavilion-1866247/"
     },
     {
-      "id": "aud-mtley-cre-ticket-sweepstakes",
-      "artist": "Mötley Crüe",
-      "station": "WEEI 93.7",
-      "market": "Boston",
-      "venue": "Xfinity Center",
-      "showDate": "2026-08-01",
-      "closes": "2026-07-20",
-      "status": "confirmed",
-      "url": "https://www.audacy.com/weei/contests/mtley-cre-ticket-sweepstakes"
-    },
-    {
-      "id": "ih-motley-crue-at-xfinity-center-1834462",
-      "artist": "Mötley Crüe",
-      "station": "WZLX 100.7",
-      "market": "Boston",
-      "venue": "Xfinity Center",
-      "showDate": "2026-08-01",
-      "closes": null,
-      "status": "listed",
-      "url": "https://wzlx.iheart.com/promotions/motley-crue-at-xfinity-center-1834462/"
-    },
-    {
-      "id": "ih-motley-crue-at-banknh-pavilion-1849344",
-      "artist": "Mötley Crüe",
-      "station": "100.3 WHEB",
-      "market": "New Hampshire",
-      "venue": "BankNH Pavilion, Gilford NH",
-      "showDate": "2026-07-24",
-      "closes": null,
-      "status": "listed",
-      "url": "https://wheb.iheart.com/promotions/motley-crue-at-banknh-pavilion-1849344/"
-    },
-    {
       "id": "ih-niall-horan-at-td-garden-1883582",
       "artist": "Niall Horan",
       "station": "Kiss 108",
@@ -1181,6 +1017,17 @@
       "url": "https://www.audacy.com/big103boston/contests/nikki-glaser-ticket-sweepstakes-2676752872"
     },
     {
+      "id": "aud-nikki-glaser-ticket-sweepstakes",
+      "artist": "Nikki Glaser",
+      "station": "BIG 103",
+      "market": "Boston",
+      "venue": "MGM Music Hall at Fenway",
+      "showDate": "2026-12-02",
+      "closes": "2026-11-23",
+      "status": "confirmed",
+      "url": "https://www.audacy.com/big103boston/contests/nikki-glaser-ticket-sweepstakes"
+    },
+    {
       "id": "ih-nikki-glaser-at-mgm-music-hall-1876571",
       "artist": "Nikki Glaser",
       "station": "Kiss 108",
@@ -1190,6 +1037,17 @@
       "closes": null,
       "status": "listed",
       "url": "https://kiss108.iheart.com/promotions/nikki-glaser-at-mgm-music-hall-1876571/"
+    },
+    {
+      "id": "ih-nikki-glaser-at-mgm-music-hall-1845196",
+      "artist": "Nikki Glaser",
+      "station": "Kiss 108",
+      "market": "Boston",
+      "venue": "MGM Music Hall at Fenway",
+      "showDate": "2026-12-02",
+      "closes": null,
+      "status": "listed",
+      "url": "https://kiss108.iheart.com/promotions/nikki-glaser-at-mgm-music-hall-1845196/"
     },
     {
       "id": "aud-nikki-glaser-ticket-sweepstakes-2676752795",
@@ -1214,6 +1072,17 @@
       "url": "https://www.audacy.com/weei/contests/nikki-glaser-ticket-sweepstakes-2676752879"
     },
     {
+      "id": "aud-nikki-glaser-ticket-sweepstakes-2",
+      "artist": "Nikki Glaser",
+      "station": "WEEI 93.7",
+      "market": "Boston",
+      "venue": "MGM Music Hall at Fenway",
+      "showDate": "2026-12-02",
+      "closes": "2026-11-23",
+      "status": "confirmed",
+      "url": "https://www.audacy.com/weei/contests/nikki-glaser-ticket-sweepstakes"
+    },
+    {
       "id": "ih-win-tickets-to-nikki-glasers-the-1845950",
       "artist": "Nikki Glaser",
       "station": "94 HJY",
@@ -1234,28 +1103,6 @@
       "closes": "2026-09-07",
       "status": "confirmed",
       "url": "https://www.audacy.com/magic1067/contests/o-a-r-ticket-sweepstakes"
-    },
-    {
-      "id": "ih-olivia-dean-at-td-garden-1833618",
-      "artist": "Olivia Dean",
-      "station": "Kiss 108",
-      "market": "Boston",
-      "venue": "TD Garden",
-      "showDate": "2026-08-10",
-      "closes": null,
-      "status": "listed",
-      "url": "https://kiss108.iheart.com/promotions/olivia-dean-at-td-garden-1833618/"
-    },
-    {
-      "id": "aud-olivia-dean-the-art-of-loving-live-tour-ticket-sweepstakes",
-      "artist": "Olivia Dean",
-      "station": "94.7 WMAS",
-      "market": "Springfield",
-      "venue": "TD Garden",
-      "showDate": "2026-08-10",
-      "closes": "2026-08-07",
-      "status": "confirmed",
-      "url": "https://www.audacy.com/947wmas/contests/olivia-dean-the-art-of-loving-live-tour-ticket-sweepstakes"
     },
     {
       "id": "ih-olivia-rodrigo-at-td-garden-1880685",
@@ -1288,18 +1135,8 @@
       "showDate": "2026-10-15",
       "closes": null,
       "status": "listed",
-      "url": "https://now933fm.iheart.com/promotions/olivia-rodrigo-the-unraveled-tour-at-1881428/"
-    },
-    {
-      "id": "aud-phish-ticket-sweepstakes",
-      "artist": "Phish",
-      "station": "WEEI 93.7",
-      "market": "Boston",
-      "venue": "Fenway Park",
-      "showDate": "2026-07-31",
-      "closes": "2026-07-22",
-      "status": "confirmed",
-      "url": "https://www.audacy.com/weei/contests/phish-ticket-sweepstakes"
+      "url": "https://now933fm.iheart.com/promotions/olivia-rodrigo-the-unraveled-tour-at-1881428/",
+      "referralUrl": "https://ul.ink/298ZS4-T1JDQP"
     },
     {
       "id": "ih-pitbull-at-xfinity-center-1847619",
@@ -1412,6 +1249,17 @@
       "url": "https://kiss108.iheart.com/promotions/robyn-at-agganis-arena-1858064/"
     },
     {
+      "id": "aud-robyn-ticket-sweepstakes1",
+      "artist": "Robyn",
+      "station": "Magic 106.7",
+      "market": "Boston",
+      "venue": "Agganis Arena",
+      "showDate": "2026-09-03",
+      "closes": "2026-08-24",
+      "status": "confirmed",
+      "url": "https://www.audacy.com/magic1067/contests/robyn-ticket-sweepstakes1"
+    },
+    {
       "id": "ih-role-model-at-leader-bank-pavilion-1897593",
       "artist": "Role Model",
       "station": "Kiss 108",
@@ -1489,7 +1337,7 @@
       "url": "https://kiss108.iheart.com/promotions/sara-bareilles-at-mgm-music-hall-1894767/"
     },
     {
-      "id": "aud-sara-bareilles-tickets-sweepstakes-2",
+      "id": "aud-sara-bareilles-tickets-sweepstakes",
       "artist": "Sara Bareilles",
       "station": "Magic 106.7",
       "market": "Boston",
@@ -1498,17 +1346,6 @@
       "closes": "2026-08-31",
       "status": "confirmed",
       "url": "https://www.audacy.com/magic1067/contests/sara-bareilles-tickets-sweepstakes"
-    },
-    {
-      "id": "aud-sara-bareilles-tickets-sweepstakes",
-      "artist": "Sara Bareilles",
-      "station": "Mix 104.1",
-      "market": "Boston",
-      "venue": "MGM Music Hall at Fenway",
-      "showDate": "2026-09-09",
-      "closes": "2026-07-28",
-      "status": "confirmed",
-      "url": "https://www.audacy.com/mix1041/contests/sara-bareilles-tickets-sweepstakes"
     },
     {
       "id": "ih-seven-dust-and-theory-of-a-1883843",
@@ -1553,6 +1390,17 @@
       "closes": null,
       "status": "listed",
       "url": "https://kiss108.iheart.com/promotions/sienna-spiro-at-citizens-house-of-1896202/"
+    },
+    {
+      "id": "aud-sienna-spiro-ticket-sweepstakes",
+      "artist": "Sienna Spiro",
+      "station": "Mix 104.1",
+      "market": "Boston",
+      "venue": "Citizens House of Blues",
+      "showDate": "2026-10-18",
+      "closes": "2026-10-05",
+      "status": "confirmed",
+      "url": "https://www.audacy.com/mix1041/contests/sienna-spiro-ticket-sweepstakes"
     },
     {
       "id": "aud-smashing-pumpkins-ticket-sweepstakes",
@@ -1654,6 +1502,17 @@
       "url": "https://wheb.iheart.com/promotions/squeeze-at-mgm-music-hall-at-1884702/"
     },
     {
+      "id": "aud-staind-ticket-sweepstakes",
+      "artist": "Staind",
+      "station": "WEEI 93.7",
+      "market": "Boston",
+      "venue": "Xfinity Center",
+      "showDate": "2026-09-18",
+      "closes": "2026-09-07",
+      "status": "confirmed",
+      "url": "https://www.audacy.com/weei/contests/staind-ticket-sweepstakes"
+    },
+    {
       "id": "ih-staind-at-xfinity-center-1852278",
       "artist": "Staind",
       "station": "WZLX 100.7",
@@ -1709,7 +1568,7 @@
       "url": "https://kiss108.iheart.com/promotions/teddy-swims-at-td-garden-1876579/"
     },
     {
-      "id": "aud-teddy-swims-ticket-sweepstakes-2",
+      "id": "aud-teddy-swims-ticket-sweepstakes",
       "artist": "Teddy Swims",
       "station": "Magic 106.7",
       "market": "Boston",
@@ -1720,7 +1579,7 @@
       "url": "https://www.audacy.com/magic1067/contests/teddy-swims-ticket-sweepstakes"
     },
     {
-      "id": "aud-teddy-swims-ticket-sweepstakes",
+      "id": "aud-teddy-swims-ticket-sweepstakes-2",
       "artist": "Teddy Swims",
       "station": "Mix 104.1",
       "market": "Boston",
@@ -1729,28 +1588,6 @@
       "closes": "2026-09-28",
       "status": "confirmed",
       "url": "https://www.audacy.com/mix1041/contests/teddy-swims-ticket-sweepstakes"
-    },
-    {
-      "id": "aud-the-fray-ticket-sweepstakes1",
-      "artist": "The Fray",
-      "station": "Magic 106.7",
-      "market": "Boston",
-      "venue": "Leader Bank Pavilion",
-      "showDate": "2026-08-15",
-      "closes": "2026-08-03",
-      "status": "confirmed",
-      "url": "https://www.audacy.com/magic1067/contests/the-fray-ticket-sweepstakes1"
-    },
-    {
-      "id": "aud-tim-mcgraw-ticket-sweepstakes",
-      "artist": "Tim McGraw",
-      "station": "WEEI 93.7",
-      "market": "Boston",
-      "venue": "Fenway Park",
-      "showDate": "2026-07-30",
-      "closes": "2026-07-20",
-      "status": "confirmed",
-      "url": "https://www.audacy.com/weei/contests/tim-mcgraw-ticket-sweepstakes"
     },
     {
       "id": "aud-tlc-salt-n-pepa-ticket-sweepstakes-2676693925",
@@ -1784,6 +1621,17 @@
       "closes": null,
       "status": "listed",
       "url": "https://now933fm.iheart.com/promotions/tlc-salt-n-pepa-with-en-1870581/"
+    },
+    {
+      "id": "ih-tyla-at-mgm-music-hall-fenway-1907302",
+      "artist": "Tyla",
+      "station": "JAM'N 94.5",
+      "market": "Boston",
+      "venue": "MGM Music Hall at Fenway",
+      "showDate": "2026-11-25",
+      "closes": null,
+      "status": "listed",
+      "url": "https://jamn945.iheart.com/promotions/tyla-at-mgm-music-hall-fenway-1907302/"
     },
     {
       "id": "ih-usher-and-chris-brown-at-gillette-1875568",
@@ -1863,18 +1711,7 @@
       "url": "https://wheb.iheart.com/promotions/weezer-at-td-garden-1869994/"
     },
     {
-      "id": "ih-weird-al-yankovic-at-banknh-pavilion-1849351",
-      "artist": "Weird Al Yankovic",
-      "station": "100.3 WHEB",
-      "market": "New Hampshire",
-      "venue": "BankNH Pavilion, Gilford NH",
-      "showDate": "2026-07-22",
-      "closes": null,
-      "status": "listed",
-      "url": "https://wheb.iheart.com/promotions/weird-al-yankovic-at-banknh-pavilion-1849351/"
-    },
-    {
-      "id": "aud-wu-tang-clan-ticket-sweepstakes-2",
+      "id": "aud-wu-tang-clan-ticket-sweepstakes",
       "artist": "Wu-Tang Clan",
       "station": "BIG 103",
       "market": "Boston",
@@ -1896,7 +1733,7 @@
       "url": "https://jamn945.iheart.com/promotions/wu-tang-clan-at-xfinity-center-1865992/"
     },
     {
-      "id": "aud-wu-tang-clan-ticket-sweepstakes",
+      "id": "aud-wu-tang-clan-ticket-sweepstakes-3",
       "artist": "Wu-Tang Clan",
       "station": "Mix 104.1",
       "market": "Boston",
@@ -1907,7 +1744,7 @@
       "url": "https://www.audacy.com/mix1041/contests/wu-tang-clan-ticket-sweepstakes"
     },
     {
-      "id": "aud-wu-tang-clan-ticket-sweepstakes-3",
+      "id": "aud-wu-tang-clan-ticket-sweepstakes-2",
       "artist": "Wu-Tang Clan",
       "station": "WEEI 93.7",
       "market": "Boston",
@@ -1918,34 +1755,12 @@
       "url": "https://www.audacy.com/weei/contests/wu-tang-clan-ticket-sweepstakes"
     },
     {
-      "id": "aud-yacht-rock-revue-ticket-sweepstakes4",
-      "artist": "Yacht Rock Revue",
-      "station": "BIG 103",
-      "market": "Boston",
-      "venue": "Leader Bank Pavilion",
-      "showDate": "2026-08-22",
-      "closes": "2026-08-10",
-      "status": "confirmed",
-      "url": "https://www.audacy.com/big103boston/contests/yacht-rock-revue-ticket-sweepstakes4"
-    },
-    {
-      "id": "aud-yacht-rock-revue-ticket-sweepstakes",
-      "artist": "Yacht Rock Revue",
-      "station": "Magic 106.7",
-      "market": "Boston",
-      "venue": "Leader Bank Pavilion",
-      "showDate": "2026-08-21",
-      "closes": "2026-08-10",
-      "status": "confirmed",
-      "url": "https://www.audacy.com/magic1067/contests/yacht-rock-revue-ticket-sweepstakes"
-    },
-    {
       "id": "ih-yeat-at-mgm-music-hall-fenway-1871271",
       "artist": "Yeat",
       "station": "JAM'N 94.5",
       "market": "Boston",
       "venue": "MGM Music Hall at Fenway",
-      "showDate": "2026-07-25",
+      "showDate": "2026-09-15",
       "closes": null,
       "status": "listed",
       "url": "https://jamn945.iheart.com/promotions/yeat-at-mgm-music-hall-fenway-1871271/"
@@ -1962,7 +1777,7 @@
       "url": "https://jamn945.iheart.com/promotions/young-thug-at-mgm-music-hall-1902888/"
     },
     {
-      "id": "aud-zach-bryan-mix-104-1",
+      "id": "aud-contests",
       "artist": "Zach Bryan",
       "station": "Mix 104.1",
       "market": "Boston",
